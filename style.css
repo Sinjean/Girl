@@ -127,7 +127,8 @@ body {
 }
 @media (max-aspect-ratio: 3/2) {
     .images-parallax__human{
-        background-position: 20% top;
+        top: 20%;
+        background-size:300%;
     }
     
 }
